@@ -1,0 +1,7 @@
+= TEST BLOG POST
+
+Note: These instructions assume you're using the Terminal app out of the box, without ZSH or any fancy prompts like that. I trust you will be able to adapt these instructions yourself if you do.
+
+Note: These instructions assume you're using the Terminal app out of the box, without ZSH or any fancy prompts like that. I trust you will be able to adapt these instructions yourself if you do.
+
+Note: These instructions assume you're using the Terminal app out of the box, without ZSH or any fancy prompts like that. I trust you will be able to adapt these instructions yourself if you do.
